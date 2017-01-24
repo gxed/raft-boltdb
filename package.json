@@ -1,0 +1,36 @@
+{
+  "author": "hashicorp",
+  "bugs": {
+    "url": "https://github.com/hashicorp/raft-boltdb"
+  },
+  "gx": {
+    "dvcsimport": "github.com/hashicorp/raft-boltdb"
+  },
+  "gxDependencies": [
+    {
+      "author": "hashicorp",
+      "hash": "QmWRzh5sntXhuZaxmGDEjjBhg1nX7DgaMdhBeik42LZdEv",
+      "name": "raft",
+      "version": "2017.1.3"
+    },
+    {
+      "author": "ugorji",
+      "hash": "QmRpRGNbrm6aaU7bnt6AwcJCfyETkdJzmtBdCazMYKoMux",
+      "name": "go-codec",
+      "version": "2017.1.3"
+    },
+    {
+      "author": "boltdb",
+      "hash": "QmeDgDNuiBKTEpRMRaUXiywwPdMtS92TRNz4oLrHr7SJkd",
+      "name": "bolt",
+      "version": "1.3.0"
+    }
+  ],
+  "gxVersion": "0.10.0",
+  "language": "go",
+  "license": "Mozilla Public License, version 2.0",
+  "name": "raft-boltdb",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "2017.1.24"
+}
+
