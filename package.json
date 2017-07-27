@@ -9,7 +9,7 @@
   "gxDependencies": [
     {
       "author": "hashicorp",
-      "hash": "QmbvymRBEryqg5nsk9dMV9V9LnNrYifYeHJU9bW2mGGzTC",
+      "hash": "QmSJ8rR1W4e7azaLpzw811vMdqJgVwKsPZqHpqbAYzauap",
       "name": "raft",
       "version": "2017.7.27"
     },
