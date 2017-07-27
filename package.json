@@ -9,21 +9,21 @@
   "gxDependencies": [
     {
       "author": "hashicorp",
-      "hash": "QmWRzh5sntXhuZaxmGDEjjBhg1nX7DgaMdhBeik42LZdEv",
+      "hash": "QmbvymRBEryqg5nsk9dMV9V9LnNrYifYeHJU9bW2mGGzTC",
       "name": "raft",
-      "version": "2017.1.3"
+      "version": "2017.7.27"
     },
     {
       "author": "ugorji",
-      "hash": "QmRpRGNbrm6aaU7bnt6AwcJCfyETkdJzmtBdCazMYKoMux",
+      "hash": "QmXdv3XMrMmE8duxqGkRtuJFmJdwPthaDHjgcfRk6UKR1W",
       "name": "go-codec",
-      "version": "2017.1.3"
+      "version": "2017.7.27"
     },
     {
       "author": "boltdb",
-      "hash": "QmeDgDNuiBKTEpRMRaUXiywwPdMtS92TRNz4oLrHr7SJkd",
+      "hash": "Qmept6ykwhJ84rEai5voYC9A9pJhkrevQ9TJvBaLj2HRR3",
       "name": "bolt",
-      "version": "1.3.0"
+      "version": "1.3.1"
     }
   ],
   "gxVersion": "0.10.0",
@@ -31,6 +31,6 @@
   "license": "Mozilla Public License, version 2.0",
   "name": "raft-boltdb",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "2017.1.24"
+  "version": "2017.7.27"
 }
 
